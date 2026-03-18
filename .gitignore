@@ -1,0 +1,5 @@
+# Local review workspace and scratch files
+.local/
+
+# macOS
+.DS_Store
