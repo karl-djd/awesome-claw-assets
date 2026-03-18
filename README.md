@@ -69,6 +69,14 @@ awesome-claw-assets/
 └── collections/
 ```
 
+## Current progress
+
+A first local review batch now exists in:
+- `notes/github-shortlist.md` — first-pass GitHub source shortlist
+- `notes/clawhub.md` — source-level notes on ClawHub as a discovery surface
+- `data/sources.csv` — tracked upstream sources
+- `collections/github-first-10/` — first vendored set of 10 selected skills for review and future adaptation
+
 ## Next steps
 
 - turn the raw source list into categories

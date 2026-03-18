@@ -1,0 +1,14 @@
+name,url,kind,notes
+ClawHub,https://clawhub.ai/,official-registry-web,Public discovery surface for browsing skills; dynamic UI so browser-based review works better than plain fetch
+openclaw/clawhub,https://github.com/openclaw/clawhub,official-registry,Public skill registry and publishing/search/install infrastructure
+openclaw/skills,https://github.com/openclaw/skills,official-archive,Historical archive of published skills; useful but not inherently safe
+VoltAgent/awesome-openclaw-skills,https://github.com/VoltAgent/awesome-openclaw-skills,awesome-list,Large curated OpenClaw skills list sourced from ClawHub
+LeoYeAI/openclaw-master-skills,https://github.com/LeoYeAI/openclaw-master-skills,curated-collection,Curated community OpenClaw skills collection
+clawdbot-ai/awesome-openclaw-skills-zh,https://github.com/clawdbot-ai/awesome-openclaw-skills-zh,awesome-list-zh,Chinese-language curated OpenClaw skills list
+FreedomIntelligence/OpenClaw-Medical-Skills,https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills,domain-library,Medical domain skills library
+kepano/obsidian-skills,https://github.com/kepano/obsidian-skills,product-library,High-signal app-specific skills for Obsidian
+libukai/awesome-agent-skills,https://github.com/libukai/awesome-agent-skills,broader-ecosystem,Broader agent-skill awesome list beyond OpenClaw
+mxyhi/ok-skills,https://github.com/mxyhi/ok-skills,broader-ecosystem,Coding-agent skills and AGENTS.md playbooks
+TerminalSkills/skills,https://github.com/TerminalSkills/skills,broader-ecosystem,Open-source skills library for multiple SKILL.md-compatible agents
+FrancyJGLisboa/agent-skill-creator,https://github.com/FrancyJGLisboa/agent-skill-creator,tooling,Portable skill creation tooling
+agent-sh/agnix,https://github.com/agent-sh/agnix,tooling,Linting and validation for SKILL.md and related agent configs
