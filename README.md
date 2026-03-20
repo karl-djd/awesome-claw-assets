@@ -30,3 +30,11 @@ awesome-claw-assets/
 
 The repo is being rebuilt around reviewed assets.
 Curator notes and in-progress review materials are now kept locally instead of being pushed to GitHub.
+
+## Current reviewed skills
+
+### Skills
+
+- [`skills/qr-generator/`](skills/qr-generator/) — generate QR codes locally from text or URLs
+- [`skills/mermaid/`](skills/mermaid/) — render Mermaid diagrams to PNG, SVG, or PDF
+- [`skills/macos-reminders/`](skills/macos-reminders/) — manage Apple Reminders from an agent on macOS
