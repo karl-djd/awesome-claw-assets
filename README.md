@@ -35,6 +35,9 @@ Curator notes and in-progress review materials are now kept locally instead of b
 
 ### Skills
 
+- [`skills/apple-mail-search-safe/`](skills/apple-mail-search-safe/) — fast, read-only Apple Mail search on macOS
+- [`skills/calctl/`](skills/calctl/) — manage Apple Calendar events from a local macOS CLI
+- [`skills/db-readonly/`](skills/db-readonly/) — inspect PostgreSQL or MySQL safely with read-only queries
 - [`skills/qr-generator/`](skills/qr-generator/) — generate QR codes locally from text or URLs
 - [`skills/mermaid/`](skills/mermaid/) — render Mermaid diagrams to PNG, SVG, or PDF
 - [`skills/macos-reminders/`](skills/macos-reminders/) — manage Apple Reminders from an agent on macOS
