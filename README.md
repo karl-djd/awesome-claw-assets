@@ -36,6 +36,9 @@ Curator notes and in-progress review materials are now kept locally instead of b
 ### Skills
 
 - [`skills/apple-mail-search-safe/`](skills/apple-mail-search-safe/) — fast, read-only Apple Mail search on macOS
+- [`skills/apple-reminders/`](skills/apple-reminders/) — manage Apple Reminders from a local macOS CLI
+- [`skills/bear-notes/`](skills/bear-notes/) — create, search, and update Bear notes on macOS
+- [`skills/blogwatcher/`](skills/blogwatcher/) — monitor RSS and blog feeds from a local CLI
 - [`skills/calctl/`](skills/calctl/) — manage Apple Calendar events from a local macOS CLI
 - [`skills/db-readonly/`](skills/db-readonly/) — inspect PostgreSQL or MySQL safely with read-only queries
 - [`skills/api-tester/`](skills/api-tester/) — test REST and GraphQL endpoints with explicit assertions and safety checks
