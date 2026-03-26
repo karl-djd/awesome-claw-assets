@@ -1,6 +1,12 @@
 ---
 name: excel-processor
 description: Read, clean, transform, analyze, and export Excel or CSV data. Use when the user wants to inspect spreadsheets, clean columns, deduplicate rows, merge files, summarize tabular data, create pivot-style outputs, or export processed spreadsheet results.
+source:
+  upstream: local-curation
+  reviewed: 2026-03-26
+review:
+  recommendation: include
+  rationale: Broadly useful spreadsheet skill with clear preserve-originals guidance and no bundled scripts or opaque side effects.
 ---
 
 # Excel Processor

@@ -1,6 +1,12 @@
 ---
 name: defuddle
 description: Extract clean Markdown from web pages with Defuddle, removing navigation and clutter before analysis or summarization. Use when the user wants readable content from an article, documentation page, blog post, or other standard web page and Defuddle is available locally.
+source:
+  upstream: local-curation
+  reviewed: 2026-03-26
+review:
+  recommendation: include
+  rationale: Narrow, honest scope for token-efficient webpage cleanup, with no hidden automation beyond a local CLI call.
 ---
 
 # Defuddle

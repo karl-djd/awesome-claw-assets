@@ -1,6 +1,12 @@
 ---
 name: pdf-analyzer
 description: Extract text, metadata, and tables from PDF files for reading, summarization, or structured export. Use when the user wants to read a PDF, summarize a PDF, pull tables from a PDF, inspect metadata, or convert PDF content into structured text or CSV.
+source:
+  upstream: local-curation
+  reviewed: 2026-03-26
+review:
+  recommendation: include
+  rationale: Common document-analysis need, realistic extraction guidance, and explicit warnings about OCR limits and preserving originals.
 ---
 
 # PDF Analyzer

@@ -44,6 +44,9 @@ Curator notes and in-progress review materials are now kept locally instead of b
 - [`skills/api-tester/`](skills/api-tester/) — test REST and GraphQL endpoints with explicit assertions and safety checks
 - [`skills/log-analyzer/`](skills/log-analyzer/) — analyze logs to build incident timelines and isolate root causes
 - [`skills/data-validator/`](skills/data-validator/) — validate exports and datasets for nulls, duplicates, drift, and freshness issues
+- [`skills/defuddle/`](skills/defuddle/) — strip web pages down to clean Markdown before analysis
+- [`skills/excel-processor/`](skills/excel-processor/) — inspect, clean, and transform Excel or CSV data without clobbering originals
+- [`skills/pdf-analyzer/`](skills/pdf-analyzer/) — extract text, tables, and metadata from PDFs for reading or structured export
 - [`skills/qr-generator/`](skills/qr-generator/) — generate QR codes locally from text or URLs
 - [`skills/mermaid/`](skills/mermaid/) — render Mermaid diagrams to PNG, SVG, or PDF
 - [`skills/macos-reminders/`](skills/macos-reminders/) — manage Apple Reminders from an agent on macOS
