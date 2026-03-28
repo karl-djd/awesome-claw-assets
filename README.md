@@ -42,6 +42,8 @@ Curator notes and in-progress review materials are now kept locally instead of b
 - [`skills/calctl/`](skills/calctl/) — manage Apple Calendar events from a local macOS CLI
 - [`skills/db-readonly/`](skills/db-readonly/) — inspect PostgreSQL or MySQL safely with read-only queries
 - [`skills/api-tester/`](skills/api-tester/) — test REST and GraphQL endpoints with explicit assertions and safety checks
+- [`skills/broken-link-checker/`](skills/broken-link-checker/) — verify external HTTP/HTTPS links with fast structured checks
+- [`skills/domain-checker/`](skills/domain-checker/) — cross-check domain availability with whois and DNS signals
 - [`skills/log-analyzer/`](skills/log-analyzer/) — analyze logs to build incident timelines and isolate root causes
 - [`skills/data-validator/`](skills/data-validator/) — validate exports and datasets for nulls, duplicates, drift, and freshness issues
 - [`skills/defuddle/`](skills/defuddle/) — strip web pages down to clean Markdown before analysis
@@ -50,3 +52,4 @@ Curator notes and in-progress review materials are now kept locally instead of b
 - [`skills/qr-generator/`](skills/qr-generator/) — generate QR codes locally from text or URLs
 - [`skills/mermaid/`](skills/mermaid/) — render Mermaid diagrams to PNG, SVG, or PDF
 - [`skills/macos-reminders/`](skills/macos-reminders/) — manage Apple Reminders from an agent on macOS
+- [`skills/testflight-monitor/`](skills/testflight-monitor/) — monitor TestFlight betas and only alert when slots open
