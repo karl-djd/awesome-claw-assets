@@ -56,3 +56,6 @@ Curator notes and in-progress review materials are now kept locally instead of b
 - [`skills/mermaid/`](skills/mermaid/) — render Mermaid diagrams to PNG, SVG, or PDF
 - [`skills/macos-reminders/`](skills/macos-reminders/) — manage Apple Reminders from an agent on macOS
 - [`skills/testflight-monitor/`](skills/testflight-monitor/) — monitor TestFlight betas and only alert when slots open
+- [`skills/agent-hardening/`](skills/agent-hardening/) — synthetic prompt-injection and sanitization smoke tests for agent environments
+- [`skills/repomix/`](skills/repomix/) — pack repos into AI-friendly analysis files for structure review and targeted search
+- [`skills/trash-cli/`](skills/trash-cli/) — move files to trash instead of permanently deleting them
