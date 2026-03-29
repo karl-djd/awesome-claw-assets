@@ -37,8 +37,11 @@ Curator notes and in-progress review materials are now kept locally instead of b
 
 - [`skills/apple-mail-search-safe/`](skills/apple-mail-search-safe/) — fast, read-only Apple Mail search on macOS
 - [`skills/apple-reminders/`](skills/apple-reminders/) — manage Apple Reminders from a local macOS CLI
+- [`skills/audio-transcribe/`](skills/audio-transcribe/) — transcribe local audio files with faster-whisper while keeping originals untouched
 - [`skills/bear-notes/`](skills/bear-notes/) — create, search, and update Bear notes on macOS
+- [`skills/beeper/`](skills/beeper/) — search local Beeper chat history with read-only thread and message lookup
 - [`skills/blogwatcher/`](skills/blogwatcher/) — monitor RSS and blog feeds from a local CLI
+- [`skills/brew-audit/`](skills/brew-audit/) — audit Homebrew packages, cleanup opportunities, and doctor warnings on macOS
 - [`skills/calctl/`](skills/calctl/) — manage Apple Calendar events from a local macOS CLI
 - [`skills/db-readonly/`](skills/db-readonly/) — inspect PostgreSQL or MySQL safely with read-only queries
 - [`skills/api-tester/`](skills/api-tester/) — test REST and GraphQL endpoints with explicit assertions and safety checks
