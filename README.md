@@ -59,3 +59,6 @@ Curator notes and in-progress review materials are now kept locally instead of b
 - [`skills/agent-hardening/`](skills/agent-hardening/) — synthetic prompt-injection and sanitization smoke tests for agent environments
 - [`skills/repomix/`](skills/repomix/) — pack repos into AI-friendly analysis files for structure review and targeted search
 - [`skills/trash-cli/`](skills/trash-cli/) — move files to trash instead of permanently deleting them
+- [`skills/gtasks-cli/`](skills/gtasks-cli/) — manage Google Tasks from a local CLI once OAuth setup is in place
+- [`skills/healthsync/`](skills/healthsync/) — inspect exported Apple Health data with read-only local queries
+- [`skills/ical-cli/`](skills/ical-cli/) — manage Apple Calendar with fast reads, explicit writes, and structured export
