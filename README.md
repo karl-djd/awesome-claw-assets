@@ -62,3 +62,6 @@ Curator notes and in-progress review materials are now kept locally instead of b
 - [`skills/gtasks-cli/`](skills/gtasks-cli/) — manage Google Tasks from a local CLI once OAuth setup is in place
 - [`skills/healthsync/`](skills/healthsync/) — inspect exported Apple Health data with read-only local queries
 - [`skills/ical-cli/`](skills/ical-cli/) — manage Apple Calendar with fast reads, explicit writes, and structured export
+- [`skills/claw-diary/`](skills/claw-diary/) — keep a local agent diary with daily summaries, replay views, and searchable history
+- [`skills/excalidraw-canvas/`](skills/excalidraw-canvas/) — render quick Excalidraw-style diagrams to PNG with an editable follow-up link
+- [`skills/a11y-auditor/`](skills/a11y-auditor/) — scan HTML and JSX for obvious accessibility issues before review
