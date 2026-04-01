@@ -49,6 +49,7 @@ Curator notes and in-progress review materials are now kept locally instead of b
 - [`skills/domain-checker/`](skills/domain-checker/) — cross-check domain availability with whois and DNS signals
 - [`skills/log-analyzer/`](skills/log-analyzer/) — analyze logs to build incident timelines and isolate root causes
 - [`skills/data-validator/`](skills/data-validator/) — validate exports and datasets for nulls, duplicates, drift, and freshness issues
+- [`skills/contrast-check/`](skills/contrast-check/) — check foreground/background color pairs against WCAG contrast thresholds
 - [`skills/defuddle/`](skills/defuddle/) — strip web pages down to clean Markdown before analysis
 - [`skills/excel-processor/`](skills/excel-processor/) — inspect, clean, and transform Excel or CSV data without clobbering originals
 - [`skills/pdf-analyzer/`](skills/pdf-analyzer/) — extract text, tables, and metadata from PDFs for reading or structured export
@@ -62,6 +63,8 @@ Curator notes and in-progress review materials are now kept locally instead of b
 - [`skills/gtasks-cli/`](skills/gtasks-cli/) — manage Google Tasks from a local CLI once OAuth setup is in place
 - [`skills/healthsync/`](skills/healthsync/) — inspect exported Apple Health data with read-only local queries
 - [`skills/ical-cli/`](skills/ical-cli/) — manage Apple Calendar with fast reads, explicit writes, and structured export
+- [`skills/image-analysis/`](skills/image-analysis/) — extract dominant colors and quick visual cues from screenshots or mockups
+- [`skills/image-compare/`](skills/image-compare/) — compare two images and generate a diff for visual regression review
 - [`skills/claw-diary/`](skills/claw-diary/) — keep a local agent diary with daily summaries, replay views, and searchable history
 - [`skills/excalidraw-canvas/`](skills/excalidraw-canvas/) — render quick Excalidraw-style diagrams to PNG with an editable follow-up link
 - [`skills/a11y-auditor/`](skills/a11y-auditor/) — scan HTML and JSX for obvious accessibility issues before review
