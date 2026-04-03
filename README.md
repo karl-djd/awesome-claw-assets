@@ -46,6 +46,7 @@ Curator notes and in-progress review materials are now kept locally instead of b
 - [`skills/db-readonly/`](skills/db-readonly/) — inspect PostgreSQL or MySQL safely with read-only queries
 - [`skills/api-tester/`](skills/api-tester/) — test REST and GraphQL endpoints with explicit assertions and safety checks
 - [`skills/broken-link-checker/`](skills/broken-link-checker/) — verify external HTTP/HTTPS links with fast structured checks
+- [`skills/cross-validated-search/`](skills/cross-validated-search/) — source-backed web search and lightweight claim verification with explicit evidence reporting
 - [`skills/domain-checker/`](skills/domain-checker/) — cross-check domain availability with whois and DNS signals
 - [`skills/log-analyzer/`](skills/log-analyzer/) — analyze logs to build incident timelines and isolate root causes
 - [`skills/data-validator/`](skills/data-validator/) — validate exports and datasets for nulls, duplicates, drift, and freshness issues
@@ -64,7 +65,12 @@ Curator notes and in-progress review materials are now kept locally instead of b
 - [`skills/healthsync/`](skills/healthsync/) — inspect exported Apple Health data with read-only local queries
 - [`skills/ical-cli/`](skills/ical-cli/) — manage Apple Calendar with fast reads, explicit writes, and structured export
 - [`skills/image-analysis/`](skills/image-analysis/) — extract dominant colors and quick visual cues from screenshots or mockups
+- [`skills/homebrew/`](skills/homebrew/) — inspect, install, upgrade, and troubleshoot Homebrew packages on macOS
 - [`skills/image-compare/`](skills/image-compare/) — compare two images and generate a diff for visual regression review
 - [`skills/claw-diary/`](skills/claw-diary/) — keep a local agent diary with daily summaries, replay views, and searchable history
 - [`skills/excalidraw-canvas/`](skills/excalidraw-canvas/) — render quick Excalidraw-style diagrams to PNG with an editable follow-up link
 - [`skills/a11y-auditor/`](skills/a11y-auditor/) — scan HTML and JSX for obvious accessibility issues before review
+- [`skills/apple-photos/`](skills/apple-photos/) — browse Apple Photos metadata, albums, people, and export requested photos on macOS
+- [`skills/agent-audit/`](skills/agent-audit/) — audit OpenClaw model usage, cron spend, and likely savings with read-only recommendations
+- [`skills/focus-mode/`](skills/focus-mode/) — keep a work session on one goal with gentle drift detection and parked tangents
+- [`skills/redline/`](skills/redline/) — monitor Claude/OpenAI usage windows and pace work before hitting rate limits
