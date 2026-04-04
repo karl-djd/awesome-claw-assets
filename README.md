@@ -36,6 +36,7 @@ Curator notes and in-progress review materials are now kept locally instead of b
 ### Skills
 
 - [`skills/apple-mail-search-safe/`](skills/apple-mail-search-safe/) — fast, read-only Apple Mail search on macOS
+- [`skills/apple-notes/`](skills/apple-notes/) — manage Apple Notes on macOS through the local `memo` CLI
 - [`skills/apple-reminders/`](skills/apple-reminders/) — manage Apple Reminders from a local macOS CLI
 - [`skills/audio-transcribe/`](skills/audio-transcribe/) — transcribe local audio files with faster-whisper while keeping originals untouched
 - [`skills/bear-notes/`](skills/bear-notes/) — create, search, and update Bear notes on macOS
@@ -55,6 +56,7 @@ Curator notes and in-progress review materials are now kept locally instead of b
 - [`skills/excel-processor/`](skills/excel-processor/) — inspect, clean, and transform Excel or CSV data without clobbering originals
 - [`skills/pdf-analyzer/`](skills/pdf-analyzer/) — extract text, tables, and metadata from PDFs for reading or structured export
 - [`skills/qr-generator/`](skills/qr-generator/) — generate QR codes locally from text or URLs
+- [`skills/rem-cli/`](skills/rem-cli/) — manage Apple Reminders on macOS through the local `rem` CLI with search, updates, and export support
 - [`skills/mermaid/`](skills/mermaid/) — render Mermaid diagrams to PNG, SVG, or PDF
 - [`skills/macos-reminders/`](skills/macos-reminders/) — manage Apple Reminders from an agent on macOS
 - [`skills/testflight-monitor/`](skills/testflight-monitor/) — monitor TestFlight betas and only alert when slots open
@@ -74,3 +76,4 @@ Curator notes and in-progress review materials are now kept locally instead of b
 - [`skills/agent-audit/`](skills/agent-audit/) — audit OpenClaw model usage, cron spend, and likely savings with read-only recommendations
 - [`skills/focus-mode/`](skills/focus-mode/) — keep a work session on one goal with gentle drift detection and parked tangents
 - [`skills/redline/`](skills/redline/) — monitor Claude/OpenAI usage windows and pace work before hitting rate limits
+- [`skills/things-mac/`](skills/things-mac/) — inspect and update Things 3 tasks on macOS through the local `things` CLI
