@@ -77,3 +77,6 @@ Curator notes and in-progress review materials are now kept locally instead of b
 - [`skills/focus-mode/`](skills/focus-mode/) — keep a work session on one goal with gentle drift detection and parked tangents
 - [`skills/redline/`](skills/redline/) — monitor Claude/OpenAI usage windows and pace work before hitting rate limits
 - [`skills/things-mac/`](skills/things-mac/) — inspect and update Things 3 tasks on macOS through the local `things` CLI
+- [`skills/understand-diff/`](skills/understand-diff/) — map git diffs onto a knowledge graph to estimate blast radius and review risk
+- [`skills/regression-tester/`](skills/regression-tester/) — build focused before/after regression checks around a refactor
+- [`skills/next-safe-action/`](skills/next-safe-action/) — add typed validation and middleware to Next.js server actions
