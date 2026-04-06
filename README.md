@@ -80,3 +80,6 @@ Curator notes and in-progress review materials are now kept locally instead of b
 - [`skills/understand-diff/`](skills/understand-diff/) — map git diffs onto a knowledge graph to estimate blast radius and review risk
 - [`skills/regression-tester/`](skills/regression-tester/) — build focused before/after regression checks around a refactor
 - [`skills/next-safe-action/`](skills/next-safe-action/) — add typed validation and middleware to Next.js server actions
+- [`skills/github-repo-quickstart/`](skills/github-repo-quickstart/) — produce a compact onboarding brief for an unfamiliar GitHub repository
+- [`skills/n8n-ops/`](skills/n8n-ops/) — inspect, debug, and update n8n workflows through the REST API with explicit guardrails
+- [`skills/urlcheck/`](skills/urlcheck/) — verify links for threat signals and intent mismatch before opening them
