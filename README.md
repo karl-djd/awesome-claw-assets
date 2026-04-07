@@ -36,6 +36,7 @@ Curator notes and in-progress review materials are now kept locally instead of b
 ### Skills
 
 - [`skills/apple-mail-search-safe/`](skills/apple-mail-search-safe/) — fast, read-only Apple Mail search on macOS
+- [`skills/apple-books/`](skills/apple-books/) — inspect Apple Books titles, highlights, notes, and reading progress through read-only local queries
 - [`skills/apple-notes/`](skills/apple-notes/) — manage Apple Notes on macOS through the local `memo` CLI
 - [`skills/apple-reminders/`](skills/apple-reminders/) — manage Apple Reminders from a local macOS CLI
 - [`skills/audio-transcribe/`](skills/audio-transcribe/) — transcribe local audio files with faster-whisper while keeping originals untouched
@@ -54,6 +55,7 @@ Curator notes and in-progress review materials are now kept locally instead of b
 - [`skills/contrast-check/`](skills/contrast-check/) — check foreground/background color pairs against WCAG contrast thresholds
 - [`skills/defuddle/`](skills/defuddle/) — strip web pages down to clean Markdown before analysis
 - [`skills/excel-processor/`](skills/excel-processor/) — inspect, clean, and transform Excel or CSV data without clobbering originals
+- [`skills/markdown-converter/`](skills/markdown-converter/) — turn PDFs, Office docs, HTML, and other formats into Markdown for review or downstream analysis
 - [`skills/pdf-analyzer/`](skills/pdf-analyzer/) — extract text, tables, and metadata from PDFs for reading or structured export
 - [`skills/qr-generator/`](skills/qr-generator/) — generate QR codes locally from text or URLs
 - [`skills/rem-cli/`](skills/rem-cli/) — manage Apple Reminders on macOS through the local `rem` CLI with search, updates, and export support
@@ -82,4 +84,5 @@ Curator notes and in-progress review materials are now kept locally instead of b
 - [`skills/next-safe-action/`](skills/next-safe-action/) — add typed validation and middleware to Next.js server actions
 - [`skills/github-repo-quickstart/`](skills/github-repo-quickstart/) — produce a compact onboarding brief for an unfamiliar GitHub repository
 - [`skills/n8n-ops/`](skills/n8n-ops/) — inspect, debug, and update n8n workflows through the REST API with explicit guardrails
+- [`skills/nb/`](skills/nb/) — manage local notebooks, notes, bookmarks, and todos with Git-backed history through the `nb` CLI
 - [`skills/urlcheck/`](skills/urlcheck/) — verify links for threat signals and intent mismatch before opening them
