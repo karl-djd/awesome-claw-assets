@@ -86,3 +86,6 @@ Curator notes and in-progress review materials are now kept locally instead of b
 - [`skills/n8n-ops/`](skills/n8n-ops/) — inspect, debug, and update n8n workflows through the REST API with explicit guardrails
 - [`skills/nb/`](skills/nb/) — manage local notebooks, notes, bookmarks, and todos with Git-backed history through the `nb` CLI
 - [`skills/urlcheck/`](skills/urlcheck/) — verify links for threat signals and intent mismatch before opening them
+- [`skills/meeting-notes/`](skills/meeting-notes/) — turn raw meeting notes or transcripts into structured summaries with decisions and action items
+- [`skills/file-organizer/`](skills/file-organizer/) — organize and rename files safely with dry runs, scoped moves, and duplicate checks
+- [`skills/tech-debt-analyzer/`](skills/tech-debt-analyzer/) — rank technical debt using repo history, churn, and bug signals instead of random cleanup vibes
