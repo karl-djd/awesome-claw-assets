@@ -37,6 +37,7 @@ Curator notes and in-progress review materials are now kept locally instead of b
 
 - [`skills/apple-mail-search-safe/`](skills/apple-mail-search-safe/) — fast, read-only Apple Mail search on macOS
 - [`skills/apple-books/`](skills/apple-books/) — inspect Apple Books titles, highlights, notes, and reading progress through read-only local queries
+- [`skills/apple-contacts/`](skills/apple-contacts/) — look up saved names, phone numbers, and email addresses from macOS Contacts.app
 - [`skills/apple-notes/`](skills/apple-notes/) — manage Apple Notes on macOS through the local `memo` CLI
 - [`skills/apple-reminders/`](skills/apple-reminders/) — manage Apple Reminders from a local macOS CLI
 - [`skills/audio-transcribe/`](skills/audio-transcribe/) — transcribe local audio files with faster-whisper while keeping originals untouched
@@ -50,6 +51,7 @@ Curator notes and in-progress review materials are now kept locally instead of b
 - [`skills/broken-link-checker/`](skills/broken-link-checker/) — verify external HTTP/HTTPS links with fast structured checks
 - [`skills/cross-validated-search/`](skills/cross-validated-search/) — source-backed web search and lightweight claim verification with explicit evidence reporting
 - [`skills/domain-checker/`](skills/domain-checker/) — cross-check domain availability with whois and DNS signals
+- [`skills/drafts/`](skills/drafts/) — create, list, and update Drafts notes on macOS through the local `drafts` CLI
 - [`skills/log-analyzer/`](skills/log-analyzer/) — analyze logs to build incident timelines and isolate root causes
 - [`skills/data-validator/`](skills/data-validator/) — validate exports and datasets for nulls, duplicates, drift, and freshness issues
 - [`skills/contrast-check/`](skills/contrast-check/) — check foreground/background color pairs against WCAG contrast thresholds
@@ -61,6 +63,7 @@ Curator notes and in-progress review materials are now kept locally instead of b
 - [`skills/rem-cli/`](skills/rem-cli/) — manage Apple Reminders on macOS through the local `rem` CLI with search, updates, and export support
 - [`skills/mermaid/`](skills/mermaid/) — render Mermaid diagrams to PNG, SVG, or PDF
 - [`skills/macos-reminders/`](skills/macos-reminders/) — manage Apple Reminders from an agent on macOS
+- [`skills/mac-tts/`](skills/mac-tts/) — speak short reminders and alerts aloud with the built-in macOS `say` command
 - [`skills/testflight-monitor/`](skills/testflight-monitor/) — monitor TestFlight betas and only alert when slots open
 - [`skills/agent-hardening/`](skills/agent-hardening/) — synthetic prompt-injection and sanitization smoke tests for agent environments
 - [`skills/repomix/`](skills/repomix/) — pack repos into AI-friendly analysis files for structure review and targeted search
