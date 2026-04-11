@@ -41,12 +41,14 @@ Curator notes and in-progress review materials are now kept locally instead of b
 - [`skills/apple-notes/`](skills/apple-notes/) — manage Apple Notes on macOS through the local `memo` CLI
 - [`skills/apple-reminders/`](skills/apple-reminders/) — manage Apple Reminders from a local macOS CLI
 - [`skills/audio-transcribe/`](skills/audio-transcribe/) — transcribe local audio files with faster-whisper while keeping originals untouched
+- [`skills/bat-cat/`](skills/bat-cat/) — preview files with syntax highlighting, line ranges, and git-aware decorations via `bat`
 - [`skills/bear-notes/`](skills/bear-notes/) — create, search, and update Bear notes on macOS
 - [`skills/beeper/`](skills/beeper/) — search local Beeper chat history with read-only thread and message lookup
 - [`skills/blogwatcher/`](skills/blogwatcher/) — monitor RSS and blog feeds from a local CLI
 - [`skills/brew-audit/`](skills/brew-audit/) — audit Homebrew packages, cleanup opportunities, and doctor warnings on macOS
 - [`skills/calctl/`](skills/calctl/) — manage Apple Calendar events from a local macOS CLI
 - [`skills/db-readonly/`](skills/db-readonly/) — inspect PostgreSQL or MySQL safely with read-only queries
+- [`skills/academic-research/`](skills/academic-research/) — search scholarly papers with OpenAlex and assemble first-pass literature-review inputs
 - [`skills/api-tester/`](skills/api-tester/) — test REST and GraphQL endpoints with explicit assertions and safety checks
 - [`skills/broken-link-checker/`](skills/broken-link-checker/) — verify external HTTP/HTTPS links with fast structured checks
 - [`skills/cross-validated-search/`](skills/cross-validated-search/) — source-backed web search and lightweight claim verification with explicit evidence reporting
@@ -88,6 +90,7 @@ Curator notes and in-progress review materials are now kept locally instead of b
 - [`skills/github-repo-quickstart/`](skills/github-repo-quickstart/) — produce a compact onboarding brief for an unfamiliar GitHub repository
 - [`skills/n8n-ops/`](skills/n8n-ops/) — inspect, debug, and update n8n workflows through the REST API with explicit guardrails
 - [`skills/nb/`](skills/nb/) — manage local notebooks, notes, bookmarks, and todos with Git-backed history through the `nb` CLI
+- [`skills/obsidian-cli/`](skills/obsidian-cli/) — operate a running Obsidian vault through the official CLI
 - [`skills/urlcheck/`](skills/urlcheck/) — verify links for threat signals and intent mismatch before opening them
 - [`skills/meeting-notes/`](skills/meeting-notes/) — turn raw meeting notes or transcripts into structured summaries with decisions and action items
 - [`skills/file-organizer/`](skills/file-organizer/) — organize and rename files safely with dry runs, scoped moves, and duplicate checks

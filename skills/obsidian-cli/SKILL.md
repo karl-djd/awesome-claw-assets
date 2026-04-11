@@ -1,38 +1,40 @@
 ---
 name: obsidian-cli
-description: Interact with an Obsidian vault through the Obsidian CLI to read notes, create notes, search content, append text, manage properties, inspect backlinks, and automate vault workflows. Use when the user wants to operate on a real Obsidian vault from the command line.
+description: Operate a running Obsidian vault through the official CLI for search, notes, tasks, links, properties, templates, plugins, and workspace actions.
+source:
+  upstream: https://github.com/openclaw/skills/tree/main/skills/adolago/obsidian-cli
+  reviewed: 2026-04-11
+review:
+  recommendation: include with caveat
+  rationale: Exceptionally complete and well-scoped for Obsidian power users, with transparent prerequisites and command coverage, but it assumes a live local Obsidian app and includes write-capable operations that need careful targeting.
+platform: Obsidian 1.12+, official obsidian CLI, local vault access
 ---
 
 # Obsidian CLI
 
-Use the `obsidian` CLI when the user wants real vault operations instead of generic Markdown editing.
+This is the heavy-duty Obsidian operations skill.
 
-## Core approach
+## Why keep this
 
-1. Confirm the target vault or file.
-2. Prefer read/search before write.
-3. Use exact file or path targeting when ambiguity exists.
-4. Preserve user content; do not overwrite unless asked.
+- clear target user, people already living in Obsidian
+- broad command reference without hiding prerequisites
+- covers both read paths and real maintenance tasks
+- very strong fit for local knowledge-base workflows on desktop
 
-## Useful patterns
+## What I reviewed
 
-```bash
-obsidian help
-obsidian read file="My Note"
-obsidian search query="term"
-obsidian create name="New Note" content="# Title"
-obsidian append file="My Note" content="New line"
-obsidian property:set name="status" value="done" file="My Note"
-obsidian backlinks file="My Note"
-```
+- bundle contents: `SKILL.md`, `_meta.json`
+- no hidden scripts, binaries, or install hooks in the bundle itself
+- prerequisites are explicit: Obsidian running, CLI enabled, binary in PATH
+- command surface is large but organized and concrete
 
-## Good habits
+## Good uses
 
-- Without a clear target, search first.
-- Use `vault="..."` when multiple vaults exist.
-- Prefer appending or patching over destructive rewrites.
-- For plugin/theme debugging, use the CLI developer commands only when Obsidian is already running.
+- searching and reading notes from a vault
+- task and daily-note workflows
+- backlink, property, and workspace inspection
+- controlled note creation and updates when the user explicitly wants vault changes
 
-## Caution
+## Caveat
 
-This skill acts on a real vault. Do not make silent bulk edits just because the terminal makes it feel easy.
+Power cuts both ways. This skill can edit, delete, publish, sync, and alter plugin state, so the operator should default to read-first behavior and confirm broader write actions.
