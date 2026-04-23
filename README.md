@@ -95,3 +95,9 @@ Curator notes and in-progress review materials are now kept locally instead of b
 - [`skills/meeting-notes/`](skills/meeting-notes/) — turn raw meeting notes or transcripts into structured summaries with decisions and action items
 - [`skills/file-organizer/`](skills/file-organizer/) — organize and rename files safely with dry runs, scoped moves, and duplicate checks
 - [`skills/tech-debt-analyzer/`](skills/tech-debt-analyzer/) — rank technical debt using repo history, churn, and bug signals instead of random cleanup vibes
+- [`skills/macos-local-voice/`](skills/macos-local-voice/) — offline macOS speech-to-text and text-to-speech with explicit voice readiness checks
+- [`skills/record/`](skills/record/) — capture mic, screen, screenshots, and camera on macOS with consent-first guidance
+- [`skills/caldav-cli/`](skills/caldav-cli/) — manage multi-account CalDAV calendars from a CLI with JSON output and keychain-backed credentials
+- [`skills/safe-backup/`](skills/safe-backup/) — back up OpenClaw state and workspace with sensible exclusions for secrets and runtime clutter
+- [`skills/config-guardian/`](skills/config-guardian/) — apply OpenClaw config changes with backup, validation, and rollback guardrails
+- [`skills/skill-vetting/`](skills/skill-vetting/) — vet third-party ClawHub skills with a scanner plus manual review workflow
